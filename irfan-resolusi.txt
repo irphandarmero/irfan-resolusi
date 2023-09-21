@@ -2,3 +2,5 @@ Resolusi Irfan
 - konsisten mengisi jurnal harian
 - fokus ke kerjaan
 - menjadi fullstack developer
+- mengelola area kebun di samping dan belakang rumah
+- memelihara ayam petelur
